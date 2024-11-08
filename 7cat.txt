@@ -1,0 +1,11 @@
+1.7746
+0
+
+F1-Micro: 0.40857831953588425
+F1-Macro: 0.3067942043892978
+Precision: 0.3156516708890302
+Recall: 0.34476131039555524
+dev_loss : 1.7746 /  
+Duration of whole dev+test set tensor(87905.9531, device='cuda:0') sec
+Inference time 289.72641500002624 sec
+Inference time per sec tensor(0.0033, device='cuda:0') sec

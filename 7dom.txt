@@ -1,0 +1,6 @@
+0.584
+
+dev_dom : 0.584 /  
+Duration of whole dev+test set tensor(114196.2188, device='cuda:0') sec
+Inference time 383.5441974000473 sec
+Inference time per sec tensor(0.0034, device='cuda:0') sec
